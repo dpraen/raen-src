@@ -1,0 +1,46 @@
+    {{ partial "head.html" . }}
+    <body>
+        {{ partial "sidebar.html" . }}
+        <div class="content-wrapper">
+            <div class="content-wrapper__inner">
+                <section id="main">
+                  {{ partial "search.html" . }}
+                    <div>
+                        {{ range first 10 .Data.Pages }}
+                            {{ if eq .Type  "post" }}
+                                {{ .Render "summary"}}
+                            {{ end }}
+                        {{ end }}
+                    </div>
+                    </br>
+                    <h4>
+                        <a href="{{ .Site.BaseURL }}/post/">Archive</a>
+                    </h4>
+
+
+            <!--             <a href="{{ .Site.BaseURL }}/categories/">categories</a> | <a href="{{.Site.BaseURL}}/tags/">tags</a>
+	    -->
+
+<h4> categories </h4>
+  <ul id="all-categories">
+{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+  <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+{{ end }}
+</ul>
+
+
+<div>
+  {{ range .Data.Pages }}
+         <a href="{{ .URL }}">{{ .Title }}</a> |
+     {{ end }}
+</div>
+
+
+
+                </section>
+            </div>
+        </div>
+        {{ partial "footer.html" .}}
+        {{ partial "script.html" .}}
+    </body>
+</html>

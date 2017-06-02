@@ -1,0 +1,10 @@
+a:link { color: blue; }
+a:visited { color: purple; }
+a:hover { color: hotpink; }
+a:active { color: red; }
+a {
+font-weight: bolder;
+font-family: "Lucida Console";
+}
+
+
