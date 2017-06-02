@@ -1,0 +1,122 @@
++++
+Description = "Universal Illness Cure"
+menu = "main"
+Categories = ["technology"]
+date = "2017-01-19T10:56:07+02:00"
+title = "a universal illness cure"
+Tags = ["technology"]
+aliases = ["/post/universal-cure/"]
+ogimage = "https://i.kinja-img.com/gawker-media/image/upload/s--X6ClerXN--/c_scale,fl_progressive,q_80,w_800/18kxdch41mvh9jpg.jpg"
+metadescription = "What if there was a universal cure to all illnesses? Plastination and substrate independence could be that cure."
++++
+![](https://i.kinja-img.com/gawker-media/image/upload/s--X6ClerXN--/c_scale,fl_progressive,q_80,w_800/18kxdch4lmvh9jpg.jpg)
+
+### The current state of medicine
+
+Today, if someone gets a dread disease, it's bad news. Surgery, medicine or invasive treatments are usually the only options. But - what if you didn't need to worry about retaining your body?
+
+This probably sounds crazy to you.
+
+But take a moment to read one of my favourite essays by neuroscientist Dr Ken Hayworth:
+
+[Killed by bad philosophy](http://www.brainpreservation.org/content-2/killed-by-bad-philosophy/)
+
+### If you didn't need to keep your body
+
+The purpose of your body is to keep your brain running - by providing it with oxygenated blood.
+
+Think about this:
+
+Imagine you could effectively "reboot" your brain on a different platform.
+
+You wouldn't have to worry about diseases effecting your current body at all. So that's great, but how?
+
+### Plastination
+
+The first step in this process would be plastination.
+
+This in essence, means replacing all the liquid in your brain with plastic resin. This would turn your brain into a block of plastic.
+
+This has already been done in animals and tissue samples. Shawn Mikula has made great progress on a Whole Mouse Brain:
+
+[Mikula's Whole Mouse Brain Entry](http://www.brainpreservation.org/mikulaevaluationpage/)
+
+### Scanning
+
+The next step would be slicing this plastic embedded brain into millions of tiny slices.
+
+Nanometers thick, and scanning each slice with an electron microsope.
+
+The scans would then be saved as a computerized 3D map of your brain. Every neuron and synapse preserved perfectly.
+
+Great progress has been made in this field:
+
+[Electron Imaging Technology For Whole Brain Circuit Mapping](http://www.worldscientific.com/doi/abs/10.1142/S1793843012400057)
+
+### Emulation
+
+This map would then be run on a brain engine.
+
+This would be a computer program that imports a brain arrangement map.
+
+Once run, it then behaves exactly like a biological mammal brain would. Congratulations, your brain is now rebooted.
+
+### Why ?
+
+Your memories, identity and personality are all stored in your brain arrangements.
+
+This is your connectome. If this can be preserved and moved to a new platform, you will essentially have moved yourself. From there, there will be a few options:
+
+1. A biological body, 3D printed. A new brain would be 3D printed, with the same connectome.
+
+2. A robotic body, with a computerized verison of your brain. It would have the same functionality, but be digital rather than biological
+
+3. A cloud based body. (a digital avatar - think Second Life, but connected to your rebooted brain).
+
+### The end of diseases
+
+These options would mean the end of diseases as we know them.
+
+### A scenario
+
+To put the above into perspective, imagine this scenario:
+
+Dave gets diagnosed with Ebola.
+
+In a matter of weeks he will be dead...
+
+If he relies on conventional medicine.
+
+But if he chooses plastination, his sick body will get incinerated after the procedure.
+
+But a map of his brain will be available, allowing a new brain to be built.
+
+A robotic body, 3D printed or virtual body could allow him to continue experiencing life.
+
+The same procedure could apply to every known disease.
+
+![](data:image/jpeg;base64,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)
+
+### A way off
+
+Of the technology stack above, two exist.
+
+Plastination and Scanning.
+
+The vital Emulation step is a while off.
+
+But current trends in neuroscience seem to suggest that it will eventually exist.
+
+The nice thing is that upon commerical plastination, we will not need to worry how far off the emulation step is.
+
+Our brains could be kept on a shelf in plastic form, until the technology exists.
+
+### Support the Brain Preservation Foundation
+
+Research for treatments for individual diseases typically gets funded.
+
+It's quite strange that a universal cure such as the one above has been overlooked.
+
+If more support went into plastination, scanning and brain emulation technologies, we could cure all diseases at once.
+
+[How you can help](http://www.brainpreservation.org/how-you-can-help/)

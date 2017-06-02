@@ -1,0 +1,7 @@
+baseurl = "http://raen.co.za/"
+languageCode = "en-us"
+title = "RAEN Technology Blog"
+theme = "hugo-uno"
+description = "Technology and marketing automation"
+blurb = "Technology, marketing automation, and general automation trends"
+

@@ -1,0 +1,24 @@
+baseurl = "http://www.raen.co.za/"
+languageCode = "en-us"
+title = "Raen"
+theme = "hugo-uno"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+author = "Dean Raemaekers"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[taxonomies]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Dean"
+  github = "dpraen"
+  twitter = "UncivSheep"
+  email = "dp.raemaekers@gmail.com"
+  linkedin = "deanraemaekers"
+  cover = "/images/background-cover.jpg"
+  description = "Technology and marketing automation"
+  blurb = "Technology, Marketing automation, development."
+  disqus = "raen"
