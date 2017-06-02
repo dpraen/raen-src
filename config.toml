@@ -1,4 +1,4 @@
-baseurl = "http://www.raen.co.za/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Raen"
 theme = "hugo-uno"
